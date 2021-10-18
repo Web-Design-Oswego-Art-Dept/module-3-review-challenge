@@ -1,5 +1,5 @@
 # Module 3 Review Challenge
-This challenge will test your knowledge of the content from Module 3.
+This challenge will reinforce the knowledge you gained from Module 3.
 
 In this challenge you'll need to edit these files to style the given images appropriately for the web. You will:
 - Constrain images to their container
