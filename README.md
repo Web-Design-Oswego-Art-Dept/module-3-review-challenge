@@ -1,11 +1,11 @@
 # Module 3 Review Challenge
 This challenge will reinforce the knowledge you gained from Module 3.
 
-In this challenge you'll need to edit these files to style the given images appropriately for the web. You will:
-- Constrain images to their container
-- Use the picture element to "art direct" the images used across screen sizes
-- Practice using float as a layout technique
-- Change layout using a media query
+In this challenge you'll need to edit these files to style the given images appropriately for the web. This includes:
+- Linking images properly
+- Constraining images to their container
+- Changing layout using a media query
+- Controlling horizontal spacing issues
 
 ## Tasks
 - Start by looking at the images in the screenshots folder to familiarize yourself with where you are headed in this challenge. 
